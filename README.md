@@ -44,7 +44,7 @@ Memory-Game/
 
 
 ## Live Demo:
-Play online: [click here](.............)
+Play : [Click here..](https://injal123.github.io/Memory-Game-/)
 
 
 Screenshots:
